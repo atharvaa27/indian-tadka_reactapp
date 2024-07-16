@@ -59,7 +59,11 @@ Check out the live demo of the project: Indian Tadka Restaurant App
 ## Screenshots
 
 ### Home Page
-
+![screenshot](./screenshot/HomePage.png)
+### Login Page
+![screenshot](./screenshot/Login.png)
+![screenshot](./screenshot/Login_user.png)
 ### Menu Page
+![screenshot](./screenshot/Menu.png)
 ### Basket Page
-### Checkout Page
+![screenshot](./screenshot/Checkout.png)
